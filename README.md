@@ -2,7 +2,9 @@
 
 ## About me
 By formation, I'm a Mechanical Engineer, who has worked in research, numerical simulation, and manufacturing engineering. 
+
 Since graduation, my career has shifted towards IT consulting, working with Siemens Preactor/Opcenter, implementing and giving software support to many industries across Brazil. 
+
 More recently, I attended a web development bootcamp, with the goal of fully transitioning my career to become a developer. 
 
 ## Technologies

@@ -1,7 +1,7 @@
 ### Hello, I'm Ricardo and I am a full-stack software developer!
 
 ## About me
-By formation, I'm a Mechanical Engineer, who has worked in research, numerical simulation, and manufacturing engineering. 
+By training, I'm a Mechanical Engineer, who has worked in research, numerical simulation, and manufacturing engineering. 
 
 Since graduation, my career has shifted towards IT consulting, working with Siemens Preactor/Opcenter, implementing and giving software support to many industries across Brazil. 
 

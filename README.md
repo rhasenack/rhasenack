@@ -1,11 +1,4 @@
-### Hello, I'm Ricardo and I am a full-stack software developer!
-
-## About me
-By training, I'm a Mechanical Engineer, who has worked in research, numerical simulation, and manufacturing engineering. 
-
-Since graduation, my career has shifted towards IT consulting, working with Siemens Preactor/Opcenter, implementing and giving software support to many industries across Brazil. 
-
-More recently, I attended a web development bootcamp, with the goal of fully transitioning my career to become a developer. 
+### Hello, I'm Ricardo
 
 ## Technologies
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
